@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @JimmyN025
-- 👀 I’m interested in Web Development
+- 👋 Hi, I’m @JimmyN025 (Jimmy Ngui)
+- 👀 I’m interested in Web Development (Front & Back End) / Android App Development (Front End)
+
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on Anyone
 
